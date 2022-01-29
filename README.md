@@ -1,16 +1,16 @@
+<img src="https://komarev.com/ghpvc/?username=colin-riddell" alt="colin-riddell" /><br/>
+
 ### Hi there 👋
 
-<!--
-**colin-riddell/colin-riddell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **OAuth** and **API's** using  **k8s** and **Spring** at [fanduel](http://github.com/fanduel)
+- 👨‍🏫 Previously : Senior Software Engineering Instructor at [CodeClan](https://codeclan.com)
+- 🌱 I’m currently learning [Rust](https://www.rust-lang.org/), [Event sourcing](https://martinfowler.com/eaaDev/EventSourcing.html), [RxJava](https://github.com/ReactiveX/RxJava), [Kafka](https://kafka.apache.org/), [Helm (k8s)](https://helm.sh/), [Graal](https://www.graalvm.org/), [AWS](https://aws.amazon.com/), [Quarkus](https://quarkus.io), CSS, [Next.JS](https://nextjs.org/), [Elixir](https://elixir-lang.org/)
+- 👯 I’m looking to collaborate on **anything**, particularly if it has OSS contributions or maybe a startup. I love Java, Rust and JavaScript
+- 💬 Ask me about **Java** and **Spring**
+- 📫 How to reach me: [twitter:colin_riddell](https://twitter.com/colin_riddell)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I can lick my elbow 😂
+- 🌍 [https://colin-riddell.github.io/](https://colin-riddell.github.io)
+- 👨‍🎓 Software Engineering (BSc) **2:1** (Stirling University 2004 - 2008)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Colin's github stats](https://github-readme-stats.vercel.app/api?username=colin-riddell&show_icons=true&hide_border=true&theme=nightowl)
