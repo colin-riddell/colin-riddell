@@ -13,6 +13,5 @@
 - ⚡ Fun fact: I can lick my elbow 😂
 - 🌍 [https://colin-riddell.github.io/](https://colin-riddell.github.io)
 - 👨‍🎓 Software Engineering (BSc) **2:1** (Stirling University 2004 - 2008)
-- ![Colin's github stats](https://github-readme-stats.vercel.app/api?username=colin-riddell&show_icons=true&hide_border=true&theme=nightowl)
 
 
