@@ -3,6 +3,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on **OAuth** and **API's** using  **k8s** and **Spring** at [fanduel](http://github.com/fanduel)
+- 🎙 I occassionaly podcast on The Coder Career ( https://www.thecodercareer.com/ )
 - 👨‍🏫 Previously : Senior Software Engineering Instructor at [CodeClan](https://codeclan.com)
 - 🌱 I’m currently learning [Rust](https://www.rust-lang.org/), [Event sourcing](https://martinfowler.com/eaaDev/EventSourcing.html), [Kafka](https://kafka.apache.org/), [Helm (k8s)](https://helm.sh/), [Graal](https://www.graalvm.org/), [AWS](https://aws.amazon.com/), CSS, [Next.JS](https://nextjs.org/), [Elixir](https://elixir-lang.org/)
 - 👯 I’m looking to collaborate on **anything**, particularly if it has OSS contributions or maybe a startup. I love Java, Rust and JavaScript
@@ -13,4 +14,3 @@
 - 🌍 [https://colin-riddell.github.io/](https://colin-riddell.github.io)
 - 👨‍🎓 Software Engineering (BSc) **2:1** (Stirling University 2004 - 2008)
 
-![Colin's github stats](https://github-readme-stats.vercel.app/api?username=colin-riddell&show_icons=true&hide_border=true&theme=nightowl)
