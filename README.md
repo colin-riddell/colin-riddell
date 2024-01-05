@@ -2,9 +2,7 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on **OAuth** and **API's** using  **k8s** and **Spring** at [fanduel](http://github.com/fanduel)
-- 🚀 I'm the co-founder of a litle exciting side-project called [The Coder Career](https://thecodercareer.com)
-- 🎙 I co-host the The Coder Career ( https://www.thecodercareer.com/ ) podcast
+- 🔭 I’m currently working on large-scale auth stuff at [fanduel](http://github.com/fanduel)
 - 👨‍🏫 Previously : Senior Software Engineering Instructor at [CodeClan](https://codeclan.com)
 - 🌱 I’m currently learning [Rust](https://www.rust-lang.org/), [Event sourcing](https://martinfowler.com/eaaDev/EventSourcing.html), [Kafka](https://kafka.apache.org/), [Helm (k8s)](https://helm.sh/), [Graal](https://www.graalvm.org/), [AWS](https://aws.amazon.com/), CSS, [Next.JS](https://nextjs.org/), [Elixir](https://elixir-lang.org/)
 - 👯 I’m looking to collaborate on **anything**, particularly if it has OSS contributions or maybe a startup. I love Java, Rust and JavaScript
